@@ -1,0 +1,403 @@
+{
+    "primeiraPag":{
+        "results": [
+            {
+                "id": 5,
+                "name": "Vanilla Pudding",
+                "amount": 0,
+                "category_id": 4,
+                "created_at": "2020-07-14T12:18:19.000Z",
+                "updated_at": "2020-07-14T12:18:19.000Z",
+                "value": 4,
+                "image_key": "shop/products/5",
+                "category": {
+                    "id": 4,
+                    "name": "Grocery & Food",
+                    "created_at": "2020-07-14T12:12:30.000Z",
+                    "updated_at": "2020-07-14T12:12:30.000Z"
+                }
+            },
+            {
+                "id": 6,
+                "name": "Goldfish Crackers",
+                "amount": 0,
+                "category_id": 4,
+                "created_at": "2020-07-14T12:19:47.000Z",
+                "updated_at": "2020-07-14T12:19:47.000Z",
+                "value": 10,
+                "image_key": "shop/products/6",
+                "category": {
+                    "id": 4,
+                    "name": "Grocery & Food",
+                    "created_at": "2020-07-14T12:12:30.000Z",
+                    "updated_at": "2020-07-14T12:12:30.000Z"
+                }
+            },
+            {
+                "id": 7,
+                "name": "Dark Chocolate Cookies",
+                "amount": 0,
+                "category_id": 4,
+                "created_at": "2020-07-14T12:20:32.000Z",
+                "updated_at": "2020-07-14T12:20:32.000Z",
+                "value": 8,
+                "image_key": "shop/products/7",
+                "category": {
+                    "id": 4,
+                    "name": "Grocery & Food",
+                    "created_at": "2020-07-14T12:12:30.000Z",
+                    "updated_at": "2020-07-14T12:12:30.000Z"
+                }
+            },
+            {
+                "id": 8,
+                "name": "Roasted Pecans",
+                "amount": 916,
+                "category_id": 4,
+                "created_at": "2020-07-14T12:21:02.000Z",
+                "updated_at": "2020-07-14T12:21:02.000Z",
+                "value": 6,
+                "image_key": "shop/products/8",
+                "category": {
+                    "id": 4,
+                    "name": "Grocery & Food",
+                    "created_at": "2020-07-14T12:12:30.000Z",
+                    "updated_at": "2020-07-14T12:12:30.000Z"
+                }
+            },
+            {
+                "id": 9,
+                "name": "Granola Bars",
+                "amount": 1053,
+                "category_id": 4,
+                "created_at": "2020-07-14T12:22:06.000Z",
+                "updated_at": "2020-07-14T12:22:06.000Z",
+                "value": 13,
+                "image_key": "shop/products/9",
+                "category": {
+                    "id": 4,
+                    "name": "Grocery & Food",
+                    "created_at": "2020-07-14T12:12:30.000Z",
+                    "updated_at": "2020-07-14T12:12:30.000Z"
+                }
+            },
+            {
+                "id": 10,
+                "name": "Coat Rack",
+                "amount": 82,
+                "category_id": 5,
+                "created_at": "2020-07-14T12:24:50.000Z",
+                "updated_at": "2020-07-14T12:24:50.000Z",
+                "value": 25,
+                "image_key": "shop/products/10",
+                "category": {
+                    "id": 5,
+                    "name": "Home Furnishings",
+                    "created_at": "2020-07-14T12:13:19.000Z",
+                    "updated_at": "2020-07-14T12:13:19.000Z"
+                }
+            },
+            {
+                "id": 11,
+                "name": "Side Table",
+                "amount": 14,
+                "category_id": 5,
+                "created_at": "2020-07-14T12:25:05.000Z",
+                "updated_at": "2020-07-14T12:25:05.000Z",
+                "value": 45,
+                "image_key": "shop/products/11",
+                "category": {
+                    "id": 5,
+                    "name": "Home Furnishings",
+                    "created_at": "2020-07-14T12:13:19.000Z",
+                    "updated_at": "2020-07-14T12:13:19.000Z"
+                }
+            },
+            {
+                "id": 12,
+                "name": "Backless Bookcase",
+                "amount": 1228,
+                "category_id": 5,
+                "created_at": "2020-07-14T12:26:18.000Z",
+                "updated_at": "2020-07-14T12:26:18.000Z",
+                "value": 95,
+                "image_key": "shop/products/12",
+                "category": {
+                    "id": 5,
+                    "name": "Home Furnishings",
+                    "created_at": "2020-07-14T12:13:19.000Z",
+                    "updated_at": "2020-07-14T12:13:19.000Z"
+                }
+            },
+            {
+                "id": 13,
+                "name": "Window Curtain",
+                "amount": 0,
+                "category_id": 5,
+                "created_at": "2020-07-14T12:27:22.000Z",
+                "updated_at": "2020-07-14T12:27:22.000Z",
+                "value": 37,
+                "image_key": "shop/products/13",
+                "category": {
+                    "id": 5,
+                    "name": "Home Furnishings",
+                    "created_at": "2020-07-14T12:13:19.000Z",
+                    "updated_at": "2020-07-14T12:13:19.000Z"
+                }
+            },
+            {
+                "id": 14,
+                "name": "Leather Chair",
+                "amount": 60,
+                "category_id": 5,
+                "created_at": "2020-07-14T12:27:56.000Z",
+                "updated_at": "2020-07-14T12:27:56.000Z",
+                "value": 225,
+                "image_key": "shop/products/14",
+                "category": {
+                    "id": 5,
+                    "name": "Home Furnishings",
+                    "created_at": "2020-07-14T12:13:19.000Z",
+                    "updated_at": "2020-07-14T12:13:19.000Z"
+                }
+            },
+            {
+                "id": 15,
+                "name": "Comfy Yoga Pants",
+                "amount": 405,
+                "category_id": 6,
+                "created_at": "2020-07-14T12:30:05.000Z",
+                "updated_at": "2020-07-14T12:30:05.000Z",
+                "value": 19,
+                "image_key": "shop/products/15",
+                "category": {
+                    "id": 6,
+                    "name": "Clothing",
+                    "created_at": "2020-07-14T12:14:03.000Z",
+                    "updated_at": "2020-07-14T12:14:03.000Z"
+                }
+            },
+            {
+                "id": 16,
+                "name": "Maxi Dress",
+                "amount": 1243,
+                "category_id": 6,
+                "created_at": "2020-07-14T12:30:57.000Z",
+                "updated_at": "2020-07-14T12:30:57.000Z",
+                "value": 28,
+                "image_key": "shop/products/16",
+                "category": {
+                    "id": 6,
+                    "name": "Clothing",
+                    "created_at": "2020-07-14T12:14:03.000Z",
+                    "updated_at": "2020-07-14T12:14:03.000Z"
+                }
+            },
+            {
+                "id": 17,
+                "name": "Cotton Polo Shirt",
+                "amount": 39,
+                "category_id": 6,
+                "created_at": "2020-07-14T12:31:22.000Z",
+                "updated_at": "2020-07-14T12:31:22.000Z",
+                "value": 12,
+                "image_key": "shop/products/17",
+                "category": {
+                    "id": 6,
+                    "name": "Clothing",
+                    "created_at": "2020-07-14T12:14:03.000Z",
+                    "updated_at": "2020-07-14T12:14:03.000Z"
+                }
+            },
+            {
+                "id": 18,
+                "name": "Running Shoe",
+                "amount": 0,
+                "category_id": 6,
+                "created_at": "2020-07-14T12:31:40.000Z",
+                "updated_at": "2020-07-14T12:31:40.000Z",
+                "value": 130,
+                "image_key": "shop/products/18",
+                "category": {
+                    "id": 6,
+                    "name": "Clothing",
+                    "created_at": "2020-07-14T12:14:03.000Z",
+                    "updated_at": "2020-07-14T12:14:03.000Z"
+                }
+            },
+            {
+                "id": 19,
+                "name": "Sweatshirt",
+                "amount": 23,
+                "category_id": 6,
+                "created_at": "2020-07-14T12:33:04.000Z",
+                "updated_at": "2020-07-14T12:33:04.000Z",
+                "value": 12,
+                "image_key": "shop/products/19",
+                "category": {
+                    "id": 6,
+                    "name": "Clothing",
+                    "created_at": "2020-07-14T12:14:03.000Z",
+                    "updated_at": "2020-07-14T12:14:03.000Z"
+                }
+            },
+            {
+                "id": 20,
+                "name": "Slim Laptop",
+                "amount": 46,
+                "category_id": 7,
+                "created_at": "2020-07-14T12:34:22.000Z",
+                "updated_at": "2020-07-14T12:34:22.000Z",
+                "value": 1250,
+                "image_key": "shop/products/20",
+                "category": {
+                    "id": 7,
+                    "name": "Electronics",
+                    "created_at": "2020-07-14T12:14:47.000Z",
+                    "updated_at": "2020-07-14T12:14:47.000Z"
+                }
+            },
+            {
+                "id": 21,
+                "name": "Raspberry PI Starter Kit",
+                "amount": 29,
+                "category_id": 7,
+                "created_at": "2020-07-14T12:44:49.000Z",
+                "updated_at": "2020-07-14T12:44:49.000Z",
+                "value": 250,
+                "image_key": "shop/products/21",
+                "category": {
+                    "id": 7,
+                    "name": "Electronics",
+                    "created_at": "2020-07-14T12:14:47.000Z",
+                    "updated_at": "2020-07-14T12:14:47.000Z"
+                }
+            },
+            {
+                "id": 22,
+                "name": "GoPro Black",
+                "amount": 38,
+                "category_id": 7,
+                "created_at": "2020-07-14T12:45:40.000Z",
+                "updated_at": "2020-07-14T12:45:40.000Z",
+                "value": 400,
+                "image_key": "shop/products/22",
+                "category": {
+                    "id": 7,
+                    "name": "Electronics",
+                    "created_at": "2020-07-14T12:14:47.000Z",
+                    "updated_at": "2020-07-14T12:14:47.000Z"
+                }
+            },
+            {
+                "id": 23,
+                "name": "Electric Bass Guitar",
+                "amount": 54,
+                "category_id": 7,
+                "created_at": "2020-07-14T12:46:35.000Z",
+                "updated_at": "2020-07-14T12:46:35.000Z",
+                "value": 4000,
+                "image_key": "shop/products/23",
+                "category": {
+                    "id": 7,
+                    "name": "Electronics",
+                    "created_at": "2020-07-14T12:14:47.000Z",
+                    "updated_at": "2020-07-14T12:14:47.000Z"
+                }
+            },
+            {
+                "id": 24,
+                "name": "PS4 Controller Wireless",
+                "amount": 31,
+                "category_id": 7,
+                "created_at": "2020-07-14T12:47:46.000Z",
+                "updated_at": "2020-07-14T12:47:46.000Z",
+                "value": 100,
+                "image_key": "shop/products/24",
+                "category": {
+                    "id": 7,
+                    "name": "Electronics",
+                    "created_at": "2020-07-14T12:14:47.000Z",
+                    "updated_at": "2020-07-14T12:14:47.000Z"
+                }
+            }
+        ],
+        "total": 33
+    },
+
+    "searchResult": {
+        "results": [
+            {
+                "id": 8,
+                "name": "Roasted Pecans",
+                "amount": 916,
+                "category_id": 4,
+                "created_at": "2020-07-14T12:21:02.000Z",
+                "updated_at": "2020-07-14T12:21:02.000Z",
+                "value": 6,
+                "image_key": "shop/products/8",
+                "category": {
+                    "id": 4,
+                    "name": "Grocery & Food",
+                    "created_at": "2020-07-14T12:12:30.000Z",
+                    "updated_at": "2020-07-14T12:12:30.000Z"
+                }
+            }
+        ],
+        "total": 1
+	}, 
+    "priceResult": {
+        "results": [
+            {
+                "id": 8,
+                "name": "Roasted Pecans",
+                "amount": 916,
+                "category_id": 4,
+                "created_at": "2020-07-14T12:21:02.000Z",
+                "updated_at": "2020-07-14T12:21:02.000Z",
+                "value": 6,
+                "image_key": "shop/products/8",
+                "category": {
+                    "id": 4,
+                    "name": "Grocery & Food",
+                    "created_at": "2020-07-14T12:12:30.000Z",
+                    "updated_at": "2020-07-14T12:12:30.000Z"
+                }
+            },
+            {
+                "id": 27,
+                "name": "Lip Balm",
+                "amount": 648,
+                "category_id": 8,
+                "created_at": "2020-07-14T12:53:35.000Z",
+                "updated_at": "2020-07-14T12:53:35.000Z",
+                "value": 4,
+                "image_key": "shop/products/27",
+                "category": {
+                    "id": 8,
+                    "name": "Beauty & Personal Care",
+                    "created_at": "2020-07-14T12:15:49.000Z",
+                    "updated_at": "2020-07-14T12:15:49.000Z"
+                }
+            },
+            {
+                "id": 33,
+                "name": "Summer Hat",
+                "amount": 72,
+                "category_id": 6,
+                "created_at": "2020-07-16T20:45:51.000Z",
+                "updated_at": "2020-07-16T20:45:51.000Z",
+                "value": 9,
+                "image_key": "shop/products/33",
+                "category": {
+                    "id": 6,
+                    "name": "Clothing",
+                    "created_at": "2020-07-14T12:14:03.000Z",
+                    "updated_at": "2020-07-14T12:14:03.000Z"
+                }
+            }
+        ],
+        "total": 3
+    }
+
+}
