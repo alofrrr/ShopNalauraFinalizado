@@ -36,9 +36,5 @@ npm start
 * [API LIVEN](https://trainning-storeapp-gateway-dev-g5kv7eofma-uw.a.run.app/) - API utilizada
 
 
-## 🎁 Expressões de gratidão
-
-* Assinar minha carteira hahaha 👩‍💻 🤓
-
 ---
 Feito com <3 por [Nalaura](https://www.linkedin.com/in/analauraoliveiraferreira/)
